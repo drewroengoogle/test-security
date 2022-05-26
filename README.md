@@ -1,2 +1,2 @@
-# test-security
+# Test
 Testing security scanning
